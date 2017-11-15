@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background: #FFF;
+    font-size: 20px;
+    font-weight: 400;
+    color: #555;
+    text-rendering: optimizeLegibility;
+    font-family: 'Lato', sans-serif;
+}
+
+.row {
+    max-width: 1140px;
+    background-color: red;
+    margin: 0 auto;
+}
